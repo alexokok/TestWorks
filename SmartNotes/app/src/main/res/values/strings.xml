@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name"> Умные заметки </string>
+
+    <string name="action_no_realized"> Метод или операция не реализованы </string>
+
+    <string name="action_yes"> Да </string>
+    <string name="action_not"> Нет </string>
+    <string name="action_close"> Закрыть </string>
+    <string name="action_save"> Сохранить </string>
+    <string name="action_abort"> Отменить изменения </string>
+    <string name="action_edit"> Изменить </string>
+    <string name="action_geo"> Текущее положение </string>
+    <string name="action_geo_map"> Указать местоположение </string>
+    <string name="action_camera"> Прикрепить фото </string>
+    <string name="action_clear_camera">Удалить фото</string>
+    <string name="action_save_txt"> Сохранить в .txt </string>
+    <string name="action_share"> Поделиться </string>
+
+    <string name="ok_save">Данные сохранены</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="del_title">Подтверждение удаления</string>
+    <string name="del_question">Вы действительно хотите удалить выбранную запись?</string>
+
+    <string name="abort_title"> Отмена изменений </string>
+    <string name="abort_question"> Вы действительно хотите отменить изменения? </string>
+
+    <string name="importance_title"> Важность заметки </string>
+
+    <string name="exit_title"> Выход </string>
+    <string name="exit_without_save">Заметка не сохранена, Вы хотите сохранить её перед закрытием?</string>
+    <string name="error_empty_title"> Заполните заголовок </string>
+    <string name="error_emplty_body"> Заполните тело заметки </string>
+
+    <string name="title_hint"> Заголовок заметки </string>
+    <string name="body_hint"> Ваши мысли? </string>
+    <string name="importance"> Важность </string>
+    <string name="title_activity_note">NoteActivity</string>
+
+    <string name="photo_title"> Вложенное фото </string>
+
+    <array name="prioritys">
+        <item>Не указана</item>
+        <item>Низкая</item>
+        <item>Средняя</item>
+        <item>Высокая</item>
+    </array>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>

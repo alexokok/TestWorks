@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6eed73e1a4566e61d427453318c45086271af0c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_484d9ed4e67833667850da757a571ee419d99ece.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_134825821f43d01af0b99571ba83269620983697.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_7bbd2c9843c800e0fd16ee99441ed0bee85ecbfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_6123d02d0f9c07efe77fd72470fb7d1210a7c20b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_6e7995eb469b491c649c9232b7a710a8d10ebb76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f5b8258b7086c4a2ca3b783215737cdb6affe06a">
+        <dex dex="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/pre-dexed/debug/instant-run_d219698ec4d6cb9b9fb1aa941ad2f98f09426cdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ada2433ed18960bd633dd7a10bfcb862b89e3fa">
+        <dex dex="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_9212c8e0a9f63f02ac4f1e6cc401b32a4a3319ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_3336bdb055ddec0bfc1a6d1ca69cac1f71cda3e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_641832b115346a3cae3323828850a3eb6e3547d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_3c15acd94cc94b5e1cd4da9aefba692dfb0288a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_72200395e89c9b68b1e4abf5a68816509499c915.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alexsey/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_cb122817ba277e49a1b84766a98b4ab7c8485aae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_3564dd8ad0e393522b6b9d47b4fc1c7fc27aad34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d13226f6fd20105d64c1e910fdc481116afa93c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc599eb9531da9d18bc58ec4eb0b1a1d895f6839">
+        <dex dex="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.2.0_a58377c1b52a10978f2ddc4bf63bc93945c4364e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_48911fe35d0e1e984fc8d2bd222d91a804761cd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_ef65edca930243b4b8cc53e154f7fab30ed4ce5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0971c059d07285aa7723e2c24eeaae72f8eef045.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/alexsey/University/Mobile/Altarix/SmartNotes/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_bcd0312181fb69ee253436b938970f57576bed2f.jar" />
+    </item>
+
+</items>

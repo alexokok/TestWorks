@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_note"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.alexsey.smartnotes.Controllers.AddNoteActivity"
+    tools:showIn="@layout/activity_note">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorWhite">
+
+        <EditText
+            android:id="@+id/title_text"
+            android:textColor="@color/colorBlack"
+            android:background="@color/colorWhite"
+            android:hint = "@string/title_hint"
+            android:layout_marginBottom="@dimen/activity_horizontal_margin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_horizontal_margin"
+            android:layout_marginBottom="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/CallableParametrs"
+                android:textColor="@color/colorBlack"
+                android:text="@string/importance"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                style="@style/CallableParametrs"
+                android:id = "@+id/importance"
+                android:gravity="right"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                />
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/colorPrimary"/>
+
+        <EditText
+            android:id="@+id/body_text"
+            android:background="@color/colorWhite"
+            android:textColor="@color/colorBlack"
+            android:hint = "@string/body_hint"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_horizontal_margin"/>
+
+        <LinearLayout
+            android:layout_marginTop="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                style="@style/CallableParametrs"
+                android:id = "@+id/image_title"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/photo_title"/>
+
+            <ImageView
+                android:id="@+id/photo_image"
+                android:gravity="right"
+                android:scaleType="centerCrop"
+                android:layout_width="100dp"
+                android:layout_height="100dp"/>
+
+        </LinearLayout>
+    <Button
+        android:id = "@+id/action_edit"
+        android:text="@string/action_edit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+</ScrollView>
